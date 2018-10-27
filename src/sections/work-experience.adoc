@@ -1,0 +1,34 @@
+= Work Experience
+
+== Q-Free Open Roads, Chesapeake, VA
+
+|===
+|_Programmer II, March 2017 - Present_
+|_Programmer I, Aug 2016 - Mar 2017 (Contractor via Robert Half, Norfolk, VA)_
+|===
+
+Though this is formally a junior role, I have had many opportunities to act in the capacity of a senior engineer. I have developed project proposals, acted as a team lead, mentored peers, and independently designed and implemented complex software.
+
+=== Achievements
+
+==== Engineering
+
+* I have identified, measured, and addressed performance bottlenecks in production software deployed in a distributed, high-availability environment, resulting in performance gains of a facor between 100 and 1000.
+* I have identified and resolved software discrepencies both in proprietary software and in open-source third-party software utilized in our technology stack.
+* I have researched, configured, and maintained infrastructure across the stack, including Postgresql databases, ActiveMQ nodes, JBoss/Wildfly clusters, Tomcat containers, and Apache servers.
+* I have implemented monitoring solutions to quickly identify discrepencies in production software performance.
+* I have researched, implemented, and validated security enhancements to legacy software systems.
+
+==== Design
+
+* I have worked on a small team to produce an engineering proposal, which we presented to senior staff members for approval, which was granted.
+
+==== Leadership
+
+* Informally assumed team lead and project manager roles for a legacy software improvement project. My responsibilities included:
+** Introducing peers to the legacy software,
+** Assissting peers to overcome daily hurdles
+** Estimating level of effort for tasks
+** Tracking task status in Jira
+** Coordinating software release and deployment
+* I have mentored peers by discussing language features, design patterns, and anti-patterns during peer-review sessions and during informal pair coding sessions.

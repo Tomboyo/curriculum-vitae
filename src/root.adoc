@@ -1,7 +1,7 @@
-= Tom Simmons
-Button-pusher extraordinaire!
-
 :toc: left
 :toclevels: 4
 
-include::sections/2018.adoc[leveloffset=+1]
+= Tom "Tomboyo" Simmons
+Cross-Disciplinary Full-Stack Engineer; Button-Pusher Extraordinaire!
+
+include::sections/work-experience.adoc[leveloffset=+1]
