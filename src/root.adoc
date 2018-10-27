@@ -1,0 +1,7 @@
+= Tom Simmons
+Button-pusher extraordinaire!
+
+:toc: left
+:toclevels: 4
+
+include::sections/2018.adoc[leveloffset=+1]
