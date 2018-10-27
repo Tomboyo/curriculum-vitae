@@ -1,0 +1,13 @@
+= Curriculum Vitae
+
+This is an in-progress document.
+
+Herein lies a comprehensive document which details my skills, education, experience, and accomplishments. I am writing this to be as exhaustive as is useful to me (which is what I typically think of as a CV; regionally, a CV can be more brief.)
+
+== Building with Asciidoc
+
+There is a build script in ./bin if you care to peruse this. You will need to install asciidoctor first; I make no attempt to manage that dependency in this repository.
+
+== Why Asciidoc?
+
+Asciidocs are simple to write and produce nice results. I prefer writing plain-text asciidoc files to working in Libre or Word when possible, since while those tools are powerful, they're also overcomplicated for the majority of my needs.
