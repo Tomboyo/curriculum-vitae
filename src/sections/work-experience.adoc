@@ -1,3 +1,4 @@
 = Work Experience
 
 include::work-experience/qfreeopenroads.adoc[leveloffset=+1]
+include::work-experience/masai-and-summit.adoc[leveloffset=+1]
