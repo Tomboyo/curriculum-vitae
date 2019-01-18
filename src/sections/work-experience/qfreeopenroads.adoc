@@ -1,5 +1,7 @@
-= Q-Free Open Roads, Chesapeake, VA
-_*And via staffing agency Robert Half, Norfolk, VA_
+= Q-Free Open Roads
+_Chesapeake, Virginia, USA_
+
+I was officially employed by Robert Half Technology (Norfolk, VA), a technology staffing agency, for the role indicated with an asterisk. For the duration I was working internally at Q-Free, and as such am not giving RHT its own section.
 
 |===
 | Software Engineer I | Jan 2019 - Present
