@@ -1,35 +1,3 @@
 = Work Experience
 
-== Q-Free Open Roads, Chesapeake, VA
-_*And via staffing agency Robert Half, Norfolk, VA_
-
-|===
-| Software Engineer I | Jan 2019 - Present
-| Programmer II       | Mar 2017 - Dec 2018
-| *Programmer I       | Aug 2016 - Mar 2017
-|===
-
-=== Responsibilitis
-My responsibilities working with Q-Free have been diverse and numerous. I have worked independently and jointly on high-visibility deliverables as well as green-field solutions. I have developed project proposals, acted as a team lead, mentored peers, planned development tasks, designed and implemented complex software, revitalized hostile legacy software, and participated in peer-review and agile team processes. I have worked principally on back-end business software, but have dipped into front-end development as well.
-
-==== Engineering
-* I have identified, measured, and addressed performance bottlenecks in production software deployed in a distributed, high-availability legacy environment, resulting in performance gains of a factor between 100 and 1000.
-* I have identified and resolved software discrepencies both in proprietary software and in open-source third-party software utilized in our technology stack in a distributed, high-availability legacy environment, largely without direction.
-* I have researched, configured, and maintained infrastructure across the stack, including Postgresql databases, ActiveMQ nodes, JBoss/Wildfly clusters, and Apache web servers.
-* I have implemented monitoring solutions to quickly identify discrepencies in production software performance.
-* I have researched, implemented, and validated security enhancements to legacy software systems.
-
-==== Design
-* I have worked on a small team to produce an engineering proposal, which we presented to senior staff members for approval, which was granted.
-* I have identified and worked with my team to resolve design questions, producing technical documents to capture decisions and guide future work.
-* I have decomposed tasking along API boundaries to create smaller, concurrently-operable units of work that are easier to implement, easier to review, and more flexible than otherwise.
-
-==== Leadership
-* I informally assumed team lead and project manager roles for a legacy software improvement project. My responsibilities included:
-** Introducing peers to the legacy software,
-** Assissting peers to overcome daily hurdles
-** Identifying individual tasks based on requirements
-** Estimating level of effort for tasks
-** Tracking task status in Jira
-** Coordinating software release and deployment
-* I have mentored peers by discussing language features, design patterns, and anti-patterns during peer-review sessions and during informal pair coding sessions.
+include::work-experience/qfreeopenroads.adoc[leveloffset=+1]
