@@ -5,6 +5,8 @@ include::cv/header.adoc[]
 
 :leveloffset: +1
 
+include::cv/skills.adoc[]
+
 include::cv/work-experience.adoc[]
 
 include::cv/writing-and-publications.adoc[]
