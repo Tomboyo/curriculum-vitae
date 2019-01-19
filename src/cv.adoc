@@ -1,7 +1,7 @@
 :toc: left
 :toclevels: 4
 
-include::cv/header.adoc[]
+include::cv/title.adoc[]
 
 :leveloffset: +1
 
