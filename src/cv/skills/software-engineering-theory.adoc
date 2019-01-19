@@ -1,0 +1,13 @@
+= Software Engineering Theory
+_Those skills which transcend any particular tech stack or business domain and apply generically to all software engineering efforts._
+
+* High-level Software design
++
+(e.g. breakdown of system behavior along interfaces, separation of concerns)
+* Recognition and application of design patterns
+* Defensive programming techniques
+* Object-oriented programming techniques
+* Functional programming techniques
+* Algorithmic analysis and design
+* Theoretical mathematics, esp. combinatorics
+* Formal/Technical writing
