@@ -1,0 +1,12 @@
+:toc: left
+:toclevels: 4
+
+include::cv/header.adoc[]
+
+:leveloffset: +1
+
+include::cv/work-experience.adoc[]
+
+include::cv/writing-and-publications.adoc[]
+
+:leveloffset: -1

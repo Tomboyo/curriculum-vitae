@@ -1,12 +1,13 @@
 #!/bin/bash
 HOME=$(realpath $(dirname $(readlink -f $0))/../)
+FILENAME="cv"
 
-asciidoctor $HOME/src/root.adoc -o $HOME/target/root.html
+asciidoctor $HOME/src/$FILENAME.adoc -o $HOME/target/$FILENAME.html
 
 if [ "$1" != "" ]; then
   case $1 in
     -c | --chromium )
-      chromium $HOME/target/root.html
+      chromium $HOME/target/$FILENAME.html
       exit
       ;;
     * )
