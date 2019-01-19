@@ -3,3 +3,5 @@
 :leveloffset: +1
 
 include::writing-and-publications/thoughtful-worldcomp.adoc[]
+
+:leveloffset: -1

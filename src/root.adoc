@@ -8,3 +8,5 @@ include::sections/header.adoc[]
 include::sections/work-experience.adoc[]
 
 include::sections/writing-and-publications.adoc[]
+
+:leveloffset: -1
