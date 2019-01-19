@@ -1,5 +1,7 @@
 = Work Experience
 
 :leveloffset: +1
+
 include::work-experience/qfreeopenroads.adoc[]
+
 include::work-experience/masai-and-summit.adoc[]
