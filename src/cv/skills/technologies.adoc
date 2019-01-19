@@ -1,0 +1,12 @@
+= Technologies
+
+|===
+| Build       | Gradle, Maven
+| SVC         | Git, SVN
+| OS          | Windows, Linux
+| Database    | Postgresql
+| Container   | Jboss AS 7, Wildfly 13
+| Front-End   | React, JQuery
+| Middleware  | JMS, ActiveMQ
+| Server      | Apache Web Server, Node
+|===
