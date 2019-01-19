@@ -2,7 +2,7 @@
 
 This document is in-progress.
 
-== Building with Asciidoc
+== Building with Asciidoctor
 
 1. Install asciidoctor
 2. Compile with `bin/build.sh` or manually with `asciidoctor root.adoc` or `asciidoctor-pdf root.adoc` if you have the pdf extension.
