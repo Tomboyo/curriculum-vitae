@@ -2,4 +2,6 @@
 :toclevels: 4
 
 include::sections/header.adoc[]
-include::sections/work-experience.adoc[leveloffset=+1]
+
+:leveloffset: +1
+include::sections/work-experience.adoc[]
