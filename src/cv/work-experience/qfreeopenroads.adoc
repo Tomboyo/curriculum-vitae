@@ -9,7 +9,7 @@ I was officially employed by Robert Half Technology (Norfolk, VA), a technology 
 | *Programmer I       | Aug 2016 - Mar 2017
 |===
 
-== Responsibilitis
+== Responsibilities
 My responsibilities working with Q-Free have been diverse and numerous. I have worked independently and jointly on high-visibility deliverables as well as green-field solutions. I have developed project proposals, acted as a team lead, mentored peers, planned development tasks, designed and implemented complex software, revitalized hostile legacy software, and participated in peer-review and agile team processes. I have worked principally on back-end business software, but have dipped into front-end development as well.
 
 === Engineering
