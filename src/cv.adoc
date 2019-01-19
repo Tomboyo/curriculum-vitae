@@ -12,3 +12,7 @@ include::cv/work-experience.adoc[]
 include::cv/writing-and-publications.adoc[]
 
 :leveloffset: -1
+
+- - -
+
+include::cv/contact.adoc[]

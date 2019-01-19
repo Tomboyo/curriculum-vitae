@@ -1,2 +1,4 @@
 = Tom "Tomboyo" Simmons
 Software Engineer; Button-Pusher Extraordinaire!
+
+include::../cv/contact.adoc[]

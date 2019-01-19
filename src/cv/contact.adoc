@@ -1,0 +1,6 @@
+[cols=3*^,frame=none,grid=none]
+|===
+<| TomASimmons@gmail.com
+^| https://github.com/tomboyo[Github^]
+>| Chesapeake, VA, USA (Remote++!)
+|===
