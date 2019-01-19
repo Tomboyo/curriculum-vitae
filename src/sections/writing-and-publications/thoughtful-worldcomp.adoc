@@ -1,0 +1,6 @@
+= 2016: “The E-Note-Keeping API: Thoughtful”
+This paper is the product of an undergraduate research course taken while enrolled at VWC (now VWU). It is concerned with the development of a RESTful web application for managing notes using a relational database.
+
+_Published in The 2016 International Conference On E-
+Learning, E-Business, Enterprise Information Systems, & E-Government, Las Vegas, NV, 2016, pp. 172-178.
+http://worldcomp-proceedings.com/proc/p2016/EEE3763.pdf[PDF]._

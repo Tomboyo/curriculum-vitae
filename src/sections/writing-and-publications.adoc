@@ -1,0 +1,5 @@
+= Writing and Publications
+
+:leveloffset: +1
+
+include::writing-and-publications/thoughtful-worldcomp.adoc[]

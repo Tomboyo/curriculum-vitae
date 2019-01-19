@@ -4,4 +4,7 @@
 include::sections/header.adoc[]
 
 :leveloffset: +1
+
 include::sections/work-experience.adoc[]
+
+include::sections/writing-and-publications.adoc[]
