@@ -1,0 +1,4 @@
+= Reading
+
+_Design Patterns_ (GoF) &bull; _Pattern Hatching_ (Vlissides) &bull; _Clean Code_ (Martin) &bull; _Effective Java_ (Bloch) &bull; topics from _Introduction to Algorithms_ (Cormen et. al) &bull; _Programming Pearls_ (Bently) &bull; _The Mythical Man-Month_ (Brooks) &bull; topics from _Code Complete_ (McConnell) &bull; _The Progress Principle_ (Amabile
+& Kramer)

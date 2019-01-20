@@ -6,4 +6,6 @@ include::skills/software-engineering-theory.adoc[]
 
 include::skills/programming-languages.adoc[]
 
+include::skills/technologies.adoc[]
+
 :leveloffset: -1

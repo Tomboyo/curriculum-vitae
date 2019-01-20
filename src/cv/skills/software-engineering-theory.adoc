@@ -9,5 +9,6 @@ _Those skills which transcend any particular tech stack or business domain and a
 * Object-oriented programming techniques
 * Functional programming techniques
 * Algorithmic analysis and design
+* Graph Theory
 * Theoretical mathematics, esp. combinatorics
 * Formal/Technical writing
