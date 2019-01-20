@@ -1,6 +1,24 @@
 = Masai, LLC and Summit Analytical, Inc
-_Denver, CO_
+_Denver, CO (Remotely)_
 
 Formally two companies, I worked with the same wonderful group of people between Masai and Summit Analytical and as such are grouping them into one section.
 
-TODO.
+|===
+| Independent Contractor | Jan 2015 - Feb 2016
+| Internship             | Jan 2014 - Dec 2014
+|===
+
+== Responsibilities
+As an intern, my responsibilities were primarily to shadow my mentors and learn about the clinical analytics SaaS solution we developed. Towards the end of my internsip and into my role as a contractor, I was responsible for developing new functionality across the stack.
+
+=== Core Technologies
+In this position I worked with: Linux, Apache Web Server, MySql, PHP, CakePHP, HTML/CSS, JavaScript, JQuery, Angular 1, and Elasticsearch.
+
+=== Engineering
+* I worked independently and with my mentors to resolve bugs across the stack.
+* I worked independently and with my mentors to develop new features across the stack.
+* I participated in daily Agile activities like scrum and planning.
+* I implemented new features using Angular 1 and ElasticSearch.
+
+=== UI Design
+* I worked with my mentors to create new administration interfaces in our system that helped us configure environments, inspect existing configurations, and replicate configurations.
