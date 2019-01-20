@@ -4,4 +4,6 @@
 
 include::education/vwc.adoc[]
 
+include::education/reading.adoc[]
+
 :leveloffset: -1
